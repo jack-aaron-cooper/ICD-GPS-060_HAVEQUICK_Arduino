@@ -5,7 +5,7 @@ This script is a implemetation of the ICD-GPS-060 Section 4.4.5 HAVEQUICK Interf
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Author and Feedback
-This was created by [@jack-aaron-cooper](https://www.github.com/jack-aaron-cooper)
+This was created by [@jack-aaron-cooper](https://www.github.com/jack-aaron-cooper)  
 If you have any feedback, please reach out to us at snorkel-glories-3r@icloud.com
 
 ## References
